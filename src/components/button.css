@@ -1,0 +1,41 @@
+/* src/components/Button.css */
+.button {
+    
+    width: 85px;
+    height: 50px;
+    font-size: 1.5rem;
+    border-radius: 2px;
+    background-color: #333333;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+ .button.change{
+  width: 100px;
+ }
+  
+  .button.orange {
+    background-color: #ff9500;
+  }
+  
+  .button:active {
+    background-color: #555555;
+  }
+  
+  .button.orange:active {
+    background-color: #cc7a00;
+  }
+
+  
+  .button.grey {
+    background-color: #7b7a79;
+  }
+  
+  .button:active {
+    background-color: #555555;
+  }
+  
+  .button.grey:active {
+    background-color: #7b7a79;
+  }
+  

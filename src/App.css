@@ -1,0 +1,40 @@
+/* src/styles/App.css */
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #00000099;
+ 
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* src/App.css */
+/* 
+.App {  
+  font-family: Arial, sans-serif;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+/* 
+.App.light {
+  background-color: white;
+  color: black;
+} */
+/* 
+.App.dark {
+  background-color: black;
+  color: white;
+} */

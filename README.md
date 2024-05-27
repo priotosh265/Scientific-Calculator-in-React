@@ -56,6 +56,6 @@ Contributions are welcome! <br> Please open an issue or submit a pull request fo
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-GitHub: priotosh265
+GitHub: priotosh265 <br>
 Email: priotoshdas50@gmail.com
 

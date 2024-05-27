@@ -51,3 +51,11 @@ HTML
 
 ## Contributing
 Contributions are welcome! <br> Please open an issue or submit a pull request for any features, bug fixes, or enhancements.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+GitHub: priotosh265
+Email: priotoshdas50@gmail.com
+
